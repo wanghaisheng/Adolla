@@ -1,4 +1,4 @@
-# Adolla
+# Adolla 1108
 
 [![Discord](https://img.shields.io/discord/863837898503880724.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NPr9n3XWGA)
 
